@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15ff1212-3f7e-45ef-85e1-582955a051b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/HotelRoomMS.iws" beforeDir="false" afterPath="$PROJECT_DIR$/HotelRoomMS.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/hangyuntao/HotelRoomMS-1.git" />
+        <option value="https://github.com/hangyuntao/HotelRoomMS.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1eIjHs4wFHQdRmUhtaGMteTIHqG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1422475" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -97,7 +106,7 @@
       <updated>1594015916645</updated>
       <workItem from="1594015918063" duration="38000" />
       <workItem from="1594015958826" duration="1326000" />
-      <workItem from="1594017627626" duration="521000" />
+      <workItem from="1594017627626" duration="2273000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1594017750703</created>
@@ -106,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594017750703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ddd">
+      <created>1594018318077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594018318077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,27 +148,27 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" width="805" height="669" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1594016877172" />
-    <state x="289" y="49" key="CommitChangelistDialog2" timestamp="1594017750485">
+    <state x="289" y="49" key="CommitChangelistDialog2" timestamp="1594018317958">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="289" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594017750485" />
+    <state x="289" y="49" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594018317958" />
     <state x="135" y="81" width="1152" height="720" key="DiffContextDialog" timestamp="1594017929043">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="135" y="81" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1594017741651" />
     <state x="135" y="81" width="1152" height="720" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1594017929043" />
-    <state x="578" y="350" width="283" height="274" key="Github.ShareDialog" timestamp="1594016827754">
+    <state x="578" y="350" width="283" height="274" key="Github.ShareDialog" timestamp="1594018581183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="578" y="350" width="283" height="274" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1594016827754" />
+    <state x="578" y="350" width="283" height="274" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1594018581183" />
     <state x="349" y="151" key="NewModule_or_Project.wizard" timestamp="1594018092617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="349" y="151" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1594018092617" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1594017904117">
+    <state x="208" y="31" key="SettingsEditor" timestamp="1594019895925">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594017904117" />
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594019895925" />
     <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1594017818098">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
