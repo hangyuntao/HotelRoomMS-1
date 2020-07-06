@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" name="HotelRoomMS:war exploded">
+      <output-path>$PROJECT_DIR$/out/artifacts/HotelRoomMS_war_exploded</output-path>
+      <root id="root">
+        <element id="javaee-facet-resources" facet="HotelRoomMS/web/Web" />
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="classes">
+            <element id="module-output" name="HotelRoomMS" />
+          </element>
+          <element id="directory" name="lib">
+            <element id="library" level="project" name="lib" />
+          </element>
+        </element>
+      </root>
+    </artifact>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="yuntao">
+      <words>
+        <w>springmvc</w>
+      </words>
+    </dictionary>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HotelRoomMS.iml" filepath="$PROJECT_DIR$/HotelRoomMS.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
+    </library>
+  </component>
+</project>
